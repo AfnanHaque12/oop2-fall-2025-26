@@ -1,0 +1,14 @@
+D:\C#\Lab Task\Abstract_Member\Abstract_Member\bin\Debug\net9.0\Abstract_Member.exe
+D:\C#\Lab Task\Abstract_Member\Abstract_Member\bin\Debug\net9.0\Abstract_Member.deps.json
+D:\C#\Lab Task\Abstract_Member\Abstract_Member\bin\Debug\net9.0\Abstract_Member.runtimeconfig.json
+D:\C#\Lab Task\Abstract_Member\Abstract_Member\bin\Debug\net9.0\Abstract_Member.dll
+D:\C#\Lab Task\Abstract_Member\Abstract_Member\bin\Debug\net9.0\Abstract_Member.pdb
+D:\C#\Lab Task\Abstract_Member\Abstract_Member\obj\Debug\net9.0\Abstract_Member.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lab Task\Abstract_Member\Abstract_Member\obj\Debug\net9.0\Abstract_Member.AssemblyInfoInputs.cache
+D:\C#\Lab Task\Abstract_Member\Abstract_Member\obj\Debug\net9.0\Abstract_Member.AssemblyInfo.cs
+D:\C#\Lab Task\Abstract_Member\Abstract_Member\obj\Debug\net9.0\Abstract_Member.csproj.CoreCompileInputs.cache
+D:\C#\Lab Task\Abstract_Member\Abstract_Member\obj\Debug\net9.0\Abstract_Member.dll
+D:\C#\Lab Task\Abstract_Member\Abstract_Member\obj\Debug\net9.0\refint\Abstract_Member.dll
+D:\C#\Lab Task\Abstract_Member\Abstract_Member\obj\Debug\net9.0\Abstract_Member.pdb
+D:\C#\Lab Task\Abstract_Member\Abstract_Member\obj\Debug\net9.0\Abstract_Member.genruntimeconfig.cache
+D:\C#\Lab Task\Abstract_Member\Abstract_Member\obj\Debug\net9.0\ref\Abstract_Member.dll

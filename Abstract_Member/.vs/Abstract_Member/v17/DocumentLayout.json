@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Lab Task\\Abstract_Member\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA44B3C-4E05-4C5A-B3BB-7496438BE741}|Abstract_Member\\Abstract_Member.csproj|d:\\c#\\lab task\\abstract_member\\abstract_member\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA44B3C-4E05-4C5A-B3BB-7496438BE741}|Abstract_Member\\Abstract_Member.csproj|solutionrelative:abstract_member\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Lab Task\\Abstract_Member\\Abstract_Member\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract_Member\\Program.cs",
+              "ToolTip": "D:\\C#\\Lab Task\\Abstract_Member\\Abstract_Member\\Program.cs",
+              "RelativeToolTip": "Abstract_Member\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:13:38.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
