@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Abstract_Payment/1.0.0": {
+        "runtime": {
+          "Abstract_Payment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Abstract_Payment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

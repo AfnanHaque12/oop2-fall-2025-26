@@ -1,0 +1,14 @@
+D:\C#\Abstract_Payment\Abstract_Payment\bin\Debug\net9.0\Abstract_Payment.exe
+D:\C#\Abstract_Payment\Abstract_Payment\bin\Debug\net9.0\Abstract_Payment.deps.json
+D:\C#\Abstract_Payment\Abstract_Payment\bin\Debug\net9.0\Abstract_Payment.runtimeconfig.json
+D:\C#\Abstract_Payment\Abstract_Payment\bin\Debug\net9.0\Abstract_Payment.dll
+D:\C#\Abstract_Payment\Abstract_Payment\bin\Debug\net9.0\Abstract_Payment.pdb
+D:\C#\Abstract_Payment\Abstract_Payment\obj\Debug\net9.0\Abstract_Payment.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Abstract_Payment\Abstract_Payment\obj\Debug\net9.0\Abstract_Payment.AssemblyInfoInputs.cache
+D:\C#\Abstract_Payment\Abstract_Payment\obj\Debug\net9.0\Abstract_Payment.AssemblyInfo.cs
+D:\C#\Abstract_Payment\Abstract_Payment\obj\Debug\net9.0\Abstract_Payment.csproj.CoreCompileInputs.cache
+D:\C#\Abstract_Payment\Abstract_Payment\obj\Debug\net9.0\Abstract_Payment.dll
+D:\C#\Abstract_Payment\Abstract_Payment\obj\Debug\net9.0\refint\Abstract_Payment.dll
+D:\C#\Abstract_Payment\Abstract_Payment\obj\Debug\net9.0\Abstract_Payment.pdb
+D:\C#\Abstract_Payment\Abstract_Payment\obj\Debug\net9.0\Abstract_Payment.genruntimeconfig.cache
+D:\C#\Abstract_Payment\Abstract_Payment\obj\Debug\net9.0\ref\Abstract_Payment.dll
